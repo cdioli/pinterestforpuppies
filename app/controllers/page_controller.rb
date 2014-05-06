@@ -4,4 +4,7 @@ class PageController < ApplicationController
 
   def about
   end 
+
+  def favorites
+  end
 end
